@@ -8,7 +8,7 @@ This project analyzes the evolution of men's singles figure skating performance 
 
 ## 2. Data Source & Information
 - **Primary Data Source**: Kaggle - Men's Figure Skating World Championship Scores (2005-2024)
-  - Author: mitchellfriess
+  - Author: MITCHELL FRIESS
   - URL: https://www.kaggle.com/datasets/mitchellfriess/fsscores
 - **Supplementary Data**: Official competition protocols (PDF) for the 2025 and 2026 World Championships, downloaded from the International Skating Union (ISU) website (https://www.isu.org)
 - **Access Date**: April 2026
@@ -33,4 +33,4 @@ This project analyzes the evolution of men's singles figure skating performance 
 3.  Open and run `acc102_figure_skating.ipynb` in Jupyter Notebook.
 
 ## 6. Demo
-A short video demo of this project is available here: [Your Demo Video Link]
+A short video demo of this project is available here: []
