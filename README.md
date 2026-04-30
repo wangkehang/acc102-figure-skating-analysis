@@ -33,4 +33,4 @@ This project analyzes the evolution of men's singles figure skating performance 
 3.  Open and run `acc102_figure_skating.ipynb` in Jupyter Notebook.
 
 ## 6. Demo
-A short video demo of this project is available here: [【ACC102 track2-哔哩哔哩】 https://b23.tv/tCgTyCX]
+A short video demo of this project is available here: [https://b23.tv/tCgTyCX]
